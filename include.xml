@@ -46,8 +46,4 @@
 		<sample path="${haxelib:flixel-demos}/Tutorials" />
 		<sample path="${haxelib:flixel-demos}/User Interface" />
 	</section>
-
-	<config:android>
-		<application android:appCategory="game" />
-	</config:android>
 </project>
